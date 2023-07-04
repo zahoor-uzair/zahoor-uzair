@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @zahoor-uzair
+- 👀 I’m interested in doing research
+- 🌱 I’m currently learning Next, Node and graphql
+- 💞️ I’m looking to collaborate on ...............
+- 📫 Reach me through instagram https://www.instagram.com/uzair3837/
